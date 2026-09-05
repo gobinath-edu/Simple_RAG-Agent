@@ -1,0 +1,29 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# ChromaDB
+chroma_db/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
