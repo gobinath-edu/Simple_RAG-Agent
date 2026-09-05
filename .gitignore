@@ -15,6 +15,7 @@ dist/
 
 # ChromaDB
 chroma_db/
+data/
 
 # Logs
 logs/
